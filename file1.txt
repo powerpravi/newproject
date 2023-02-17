@@ -16,3 +16,5 @@ adding line15
 adding line16
 welcome to aws
 welcome to azur
+app1
+app2
